@@ -1,4 +1,4 @@
-const { add } = require("./app");
+const { add } = require("./docs/app");
 
 describe("Addition Function", () => {
   test("adds 2 + 3 to equal 5", () => {
